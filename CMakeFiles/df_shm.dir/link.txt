@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O2 -g -DNDEBUG   -shared -Wl,-soname,libdf_shm.so -o libdf_shm.so CMakeFiles/df_shm.dir/df_shm.c.o CMakeFiles/df_shm.dir/df_shm_mmap.c.o CMakeFiles/df_shm.dir/df_shm_posixshm.c.o CMakeFiles/df_shm.dir/df_shm_sysv.c.o CMakeFiles/df_shm.dir/df_shm_queue.c.o 

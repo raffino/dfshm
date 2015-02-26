@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdf_shm.a  CMakeFiles/df_shm-static.dir/df_shm.c.o CMakeFiles/df_shm-static.dir/df_shm_mmap.c.o CMakeFiles/df_shm-static.dir/df_shm_posixshm.c.o CMakeFiles/df_shm-static.dir/df_shm_sysv.c.o CMakeFiles/df_shm-static.dir/df_shm_queue.c.o
+/usr/bin/ranlib libdf_shm.a
